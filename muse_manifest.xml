@@ -1,0 +1,79 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="santo.com" resolutions="1x" timestamp="1763185930868">
+  <folder name="css">
+    <file name="site_global.css" crc="4034157719"/>
+    <file name="master_a-p_g_-maestra.css" crc="4267385865" ref="index"/>
+    <file name="index.css" crc="513634903" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="santo-anuncio-favicon.ico" crc="3844383905" ref="index"/>
+    <file name="capa-2.svg" crc="3874763721" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="capa 2_poster_.png" crc="253002160" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="recurso-23.svg" crc="290145385" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 23_poster_.png" crc="113573847" ref="index"/>
+    <file name="recurso-24.svg" crc="94750625" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 24_poster_.png" crc="4203228140" ref="index"/>
+    <file name="cel-tarjeta1.png" crc="3851184529" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 17.png" crc="4058910142" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso-22.svg" crc="250288510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 22_poster_.png" crc="3962640901" ref="index"/>
+    <file name="recurso-21.svg" crc="4049593367" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 21_poster_.png" crc="4052605090" ref="index"/>
+    <file name="imagen_ai.jpg" crc="4164874663" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 28.png" crc="3857378620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 27.png" crc="121570273" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="customer-hand-scanning-qr-code-with-phone-for-digi-2025-01-08-15-24-20-utc.jpg" crc="506394255" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 19.png" crc="4032381800" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 20.png" crc="4166882531" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso-25.svg" crc="4223977447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 25_poster_.png" crc="4221503744" ref="index"/>
+  </folder>
+  <file name="index.html" crc="288366155" seo="true" mt="1763185925363" redirect="true"/>
+</manifest>
